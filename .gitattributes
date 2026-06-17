@@ -1,1 +1,3 @@
 generative-ai-system-design-interview.pdf filter=lfs diff=lfs merge=lfs -text
+generative-ai-solutions-on-google-cloud.pdf filter=lfs diff=lfs merge=lfs -text
+Prompt-engineering-for-generative-ai-9781098153434.pdf filter=lfs diff=lfs merge=lfs -text
